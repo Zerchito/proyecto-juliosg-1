@@ -1,0 +1,26 @@
+body{
+    font-size: 16px;
+}
+
+.container{
+    max-width: 1070px;
+}
+
+.external-links{
+    background-color:  #1a2127 ;
+}
+
+.about-us{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social-media{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.list__element{
+    display: inline-block;
+    padding: 5px;
+}
