@@ -1,2 +1,2 @@
-# proyecto-juliosg-1
+# zerch
 proyecto realizado por julio lu baku y yo
